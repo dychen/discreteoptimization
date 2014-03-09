@@ -1,6 +1,4 @@
 *.swp
 *.pyc
 *.out
-*.pdf
 _metadata
-submit.py
